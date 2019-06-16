@@ -1,0 +1,10 @@
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\bin\Debug\EmlakKayıtProgramSon.exe.config
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\bin\Debug\EmlakKayıtProgramSon.exe
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\bin\Debug\EmlakKayıtProgramSon.pdb
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.csprojResolveAssemblyReference.cache
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.Form1.resources
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.Properties.Resources.resources
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.csproj.GenerateResource.Cache
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.exe
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.pdb
+C:\Users\Fadime Acikgoz\Desktop\C# Çalışmaları\EmlakKayıtProgramSon\obj\Debug\EmlakKayıtProgramSon.Form2.resources
